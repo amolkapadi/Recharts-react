@@ -1,11 +1,9 @@
 import './App.css';
-import DashedLineChart from './ReactChart/DashedLineChart';
-// import SimpleLineChart from './ReactChart/SimpleLineChart'
+import SimpleAreaChart from './ReactChart/SimpleAreaChart';
 function App() {
   return (
    <>
-  {/* <SimpleLineChart />    */}
-  <DashedLineChart />
+  <SimpleAreaChart />
    </>
   );
 }
