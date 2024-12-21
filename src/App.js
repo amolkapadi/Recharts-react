@@ -1,9 +1,9 @@
 import './App.css';
-import SimpleAreaChart from './ReactChart/SimpleAreaChart';
+import StackedAreaChart from './ReactChart/StackedAreaChart';
 function App() {
   return (
    <>
-  <SimpleAreaChart />
+  <StackedAreaChart />
    </>
   );
 }
