@@ -1,9 +1,9 @@
 import './App.css';
-import SimpleBarChart from './ReactChart/SimpleBarChart';
+import StackedBarChart from './ReactChart/StackedBarChart';
 function App() {
   return (
    <>
-    <SimpleBarChart />
+    <StackedBarChart />
    </>
   );
 }
